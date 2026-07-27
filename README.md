@@ -39,17 +39,17 @@ MinecraftVersion 26.2
 |:---|:---|:---:|
 |水晶 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/4d26900a-9cd5-42cd-b095-699a7875109e" /> |非売品 |アイテムショップ/VIPアイテムショップの通貨 |  
 |IDカード <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/d24da452-9931-4c0c-80cc-9b0751ecce03" /> |非売品 |フェーズ2時に所持していると「役職」がわかる |
-|木の剣 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/2ad2016a-9297-4f01-b792-4878808cfa88" /> |10 |攻撃力:3 耐久力無限 |  
-|たべのこし <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/35ae191a-f192-4cb7-a72c-f09601402f29" /> |3 |体力をすこしだけ回復することができる |  
-|染料 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/61ec5aae-f107-4865-98b9-80c66479a0fa" /> |2 |右クリックした人の「Color」がわかる |  
-|ディスク <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0ed79183-51db-4462-8c45-1cba249e418a" /> |10 |右クリックした人の「Code」がわかる |
-|ハートのかけら <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ed8b629b-0b44-400b-949a-9d166b50c333" /> |2 |最大体力を持っている数x1増加 |  
-|救急キット <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/aa523340-ce7e-4f5e-80ac-fb8b9e1c2be8" /> |5 |右クリックで体力を全快させる |  
-|カラーアイ <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/f649c86f-a620-4aae-82fc-1342bfce2ab8" /> |10 |右クリックした人と「Color」を入れ替える。30秒間CTが発生する |  
-|ワンタイムシールド <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/4515bc5e-e926-4e17-b220-e148a8b381a7" /> |12 |右クリックで黄色のハートx20付与する |
-|ウサギの足 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/5f0cc1cb-cd36-4443-98de-0f919794d4c7" /> |4 |所持している間移動速度を1増加 |  
-|雲隠れの術　<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/03212a1b-9f98-4758-a009-8bb63a0f3833" /> |4 |右クリックで10秒間透明と無敵になる。30秒間CTが発生する |  
-|インファイト <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/1c1ae166-2aa9-48cf-a55e-3f5f074fae7f" /> |4 |右クリックで15秒間攻撃力が3増加する |
-|鉄壁の体 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/da16694a-e612-4001-af40-ee619face8f5" /> |4 |右クリックで12秒間防御力が5増加する |
+|木の剣 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/099c73ab-2ff7-40fa-adbe-07971bed2bac" /> |10 |攻撃力:3 耐久力無限 |  
+|たべのこし <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/04ad117f-bc70-4147-b9d1-e10114b208c6" /> |3 |体力をすこしだけ回復することができる |  
+|染料 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/156a056b-a9ee-4892-ae75-4badb19d4e41" /> |2 |右クリックした人の「Color」がわかる |  
+|ディスク <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/91190607-a383-43ef-b3a8-bc8218727f5a" /> |10 |右クリックした人の「Code」がわかる |
+|ハートのかけら <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/14c98402-23ce-4eb7-93fc-8580b1555760" /> |2 |最大体力を持っている数x1増加 |  
+|救急キット <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/6de56c66-26db-4703-bc9f-4e63becb14dc" /> |5 |右クリックで体力を全快させる |  
+|カラーアイ <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7ab94051-f000-4fb6-8c56-79be6ed79b14" /> |10 |右クリックした人と「Color」を入れ替える。30秒間CTが発生する |  
+|ワンタイムシールド <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0cdcd09f-43f1-4115-ba9a-ddcd4369dd1c" /> |12 |右クリックで黄色のハートx20付与する |
+|ウサギの足 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/255612ee-3707-4361-aa48-5803ac93ab99" /> |4 |所持している間移動速度を1増加 |  
+|雲隠れの術　<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/fa3f2d9f-8e4b-4466-92b2-fc7592fdea0d" /> |4 |右クリックで10秒間透明と無敵になる。30秒間CTが発生する |  
+|インファイト <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7ea5b3b7-7ac1-4003-91c5-512d1c86e3be" /> |4 |右クリックで15秒間攻撃力が3増加する |
+|鉄壁の体 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/bd674f26-0bbb-4dbb-84d4-5b3a24ae125c" /> |4 |右クリックで12秒間防御力が5増加する |
 
 
