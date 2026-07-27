@@ -37,7 +37,7 @@ MinecraftVersion 26.2
 ## アイテム  
 | アイテム名 | 売価 | 説明 |
 |:---|:---|:---:|
-|水晶 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7a5b0a76-8862-4444-b04a-d2b20635fc58" /> |非売品 |アイテムショップ/VIPアイテムショップの通貨 |  
+|水晶 <img width="20" height="20" alt="image" src="https://static.wikia.nocookie.net/minecraft_ja_gamepedia/images/6/61/Amethyst_Shard_JE2_BE1.png/revision/latest?cb=20220413014910" /> |非売品 |アイテムショップ/VIPアイテムショップの通貨 |  
 |IDカード <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ba1cac65-28c0-4d42-894b-25e179c2b1b1" /> |非売品 |フェーズ2時に所持していると「役職」がわかる |
 |木の剣 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/2ad2016a-9297-4f01-b792-4878808cfa88" /> |10 |攻撃力:3 耐久力無限 |  
 |たべのこし <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/35ae191a-f192-4cb7-a72c-f09601402f29" /> |3 |体力をすこしだけ回復することができる |  
