@@ -37,8 +37,8 @@ MinecraftVersion 26.2
 ## アイテム  
 | アイテム名 | 売価 | 説明 |
 |:---|:---|:---:|
-|水晶 <img width="20" height="20" alt="image" src="https://static.wikia.nocookie.net/minecraft_ja_gamepedia/images/6/61/Amethyst_Shard_JE2_BE1.png/revision/latest?cb=20220413014910" /> |非売品 |アイテムショップ/VIPアイテムショップの通貨 |  
-|IDカード <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ba1cac65-28c0-4d42-894b-25e179c2b1b1" /> |非売品 |フェーズ2時に所持していると「役職」がわかる |
+|水晶 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/4d26900a-9cd5-42cd-b095-699a7875109e" /> |非売品 |アイテムショップ/VIPアイテムショップの通貨 |  
+|IDカード <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/d24da452-9931-4c0c-80cc-9b0751ecce03" /> |非売品 |フェーズ2時に所持していると「役職」がわかる |
 |木の剣 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/2ad2016a-9297-4f01-b792-4878808cfa88" /> |10 |攻撃力:3 耐久力無限 |  
 |たべのこし <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/35ae191a-f192-4cb7-a72c-f09601402f29" /> |3 |体力をすこしだけ回復することができる |  
 |染料 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/61ec5aae-f107-4865-98b9-80c66479a0fa" /> |2 |右クリックした人の「Color」がわかる |  
