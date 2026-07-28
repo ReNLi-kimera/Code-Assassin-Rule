@@ -1,6 +1,7 @@
 # Code:Assassin β
 MinecraftVersion 26.2  
 標的やターゲットを暗殺し最後まで生き残れ  
+ルール説明動画↓  
 [!['ルール説明動画'](https://github.com/user-attachments/assets/2f6b8af3-56ac-4893-a91c-f0a52186c10a)](https://youtu.be/vI7Ihnuigjg)    
 
 ## 基本ルール  
